@@ -1,0 +1,30 @@
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.exe
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.deps.json
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.runtimeconfig.json
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.dll
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\ref\GeneticAlg.dll
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.pdb
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.csproj.AssemblyReference.cache
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.AssemblyInfoInputs.cache
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.AssemblyInfo.cs
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.dll
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\ref\GeneticAlg.dll
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.pdb
+C:\Users\Тая\source\repos\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.genruntimeconfig.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.exe
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.deps.json
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.runtimeconfig.json
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.dll
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\ref\GeneticAlg.dll
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\bin\Debug\net6.0\GeneticAlg.pdb
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.csproj.AssemblyReference.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.AssemblyInfoInputs.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.AssemblyInfo.cs
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.csproj.CoreCompileInputs.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.dll
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\ref\GeneticAlg.dll
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.pdb
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба2\GeneticAlg\GeneticAlg\obj\Debug\net6.0\GeneticAlg.genruntimeconfig.cache

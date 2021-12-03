@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Common (G)\\Учеба)0)(((000\\7 семестр (текущий)\\Интеллектуальные системы\\лабы\\лаба2\\GeneticAlg\\GeneticAlg\\GeneticAlg.csproj": {}
+  },
+  "projects": {
+    "D:\\Common (G)\\Учеба)0)(((000\\7 семестр (текущий)\\Интеллектуальные системы\\лабы\\лаба2\\GeneticAlg\\GeneticAlg\\GeneticAlg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Common (G)\\Учеба)0)(((000\\7 семестр (текущий)\\Интеллектуальные системы\\лабы\\лаба2\\GeneticAlg\\GeneticAlg\\GeneticAlg.csproj",
+        "projectName": "GeneticAlg",
+        "projectPath": "D:\\Common (G)\\Учеба)0)(((000\\7 семестр (текущий)\\Интеллектуальные системы\\лабы\\лаба2\\GeneticAlg\\GeneticAlg\\GeneticAlg.csproj",
+        "packagesPath": "C:\\Users\\Тая\\.nuget\\packages\\",
+        "outputPath": "D:\\Common (G)\\Учеба)0)(((000\\7 семестр (текущий)\\Интеллектуальные системы\\лабы\\лаба2\\GeneticAlg\\GeneticAlg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Тая\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
